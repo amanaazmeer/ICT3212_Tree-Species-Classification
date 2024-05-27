@@ -87,10 +87,7 @@ The model can predict the species of a tree based on user input for the various 
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/tree-species-classification.git
-cd tree-species-classification
-pip install -r requirements.txt
-```
+git clone https://github.com/amanaazmeer/ICT3212_Tree-Species-Classification.git```
 
 ### Running the Code
 
