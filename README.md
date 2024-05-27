@@ -82,9 +82,7 @@ The model can predict the species of a tree based on user input for the various 
 - Pandas
 - Joblib
 
-### Installation
-
-Clone the repository and install the required packages:
+### Clone the repository
 
 ```bash
 git clone https://github.com/amanaazmeer/ICT3212_Tree-Species-Classification.git```
